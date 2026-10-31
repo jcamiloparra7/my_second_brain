@@ -23,3 +23,5 @@ A Git-backed knowledge base for concepts, ideas, projects, and daily notes.
 Create a new concept from `templates/concept-template.md`, save it under `concepts/`, and link it to related notes.
 
 See `docs/copilot-usage.md` for prompts and workflows to use Copilot for note creation and linking.
+
+See `docs/exportar-conceptos-a-pdf.md` for combining concept notes into one file and exporting them to PDF.
