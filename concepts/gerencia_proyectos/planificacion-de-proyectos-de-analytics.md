@@ -44,3 +44,5 @@ Ademas, la planificacion incluye la definicion del cronograma, el presupuesto, l
 - [[alineacion-estrategica-de-proyectos]]
 - [[problema-de-analytics]]
 - [[gestion-de-riesgos-rbs-y-amef]]
+- [[ejecucion-de-proyectos-de-analytics]]
+- [[seleccion-de-metodologia-en-analytics]]

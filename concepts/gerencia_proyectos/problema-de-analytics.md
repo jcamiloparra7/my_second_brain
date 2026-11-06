@@ -70,3 +70,6 @@ En la practica, estas herramientas permiten sistematizar la informacion antes de
 - [[planificacion-de-proyectos-de-analytics]]
 - [[alineacion-estrategica-de-proyectos]]
 - [[gestion-de-riesgos-rbs-y-amef]]
+- [[enfoques-de-analytics]]
+- [[tecnicas-de-analytics-por-enfoque]]
+- [[seleccion-de-metodologia-en-analytics]]
